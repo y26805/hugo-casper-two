@@ -34,6 +34,8 @@ paginate        = 6
   title       = "Hugo Casper Two"
   subtitle    = "Port of Casper 2.x for Hugo"
 
+  mainSections = ["post"]
+
   cover       = "img/blog-cover.jpg"
   description = "Here is a description of your site."
   metaDescription = ""
